@@ -1,3 +1,8 @@
+---
+title: Projects
+description: Projects that I have worked on
+---
+
 # Projects
 
 As mentioned in the [home page](/) I am currently working
